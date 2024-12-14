@@ -1,5 +1,5 @@
 # PySpark
- Gather information about PySpark like tutorials and articles.
+ Gather information about PySpark and Python like tutorials and articles.
 
  ## Articles
 -  **Getting Started with PySpark: An Introduction to Distributed Data Processing with Python**: [Link](https://medium.com/@nksnaveen13/getting-started-with-pyspark-an-introduction-to-distributed-data-processing-with-python-b7cf70eccf97)
