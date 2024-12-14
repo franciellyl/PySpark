@@ -1,4 +1,4 @@
-# PySpark
+# PySpark and Python
  Gather information about PySpark and Python like tutorials and articles.
 
  ## Articles
